@@ -1,0 +1,31 @@
+body {
+  background-color: rgba(245, 225, 225, 0.877);
+}
+
+body {
+  font-size: 20px;
+}
+
+body p {
+  font-size: 40px;
+}
+
+.block {
+  position: relative;
+}
+
+.photo {
+  width: 100%;
+  max-width: 500px;
+  position: absolute;
+  top: 0;
+  left: 30%;
+}
+
+.photo1 {
+  width: 100%;
+  max-width: 500px;
+  position: absolute;
+  top: 266px;
+  left: 30%;
+}
