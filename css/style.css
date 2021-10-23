@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(245, 225, 225, 0.877);
+  background-color: #68c768;
 }
 
 body {
@@ -12,6 +12,7 @@ body p {
 
 .block {
   position: relative;
+  background-color: #68c768;
 }
 
 .photo {
